@@ -37,7 +37,7 @@ The primary dataset used for this analysis are the 'Swiggy Sales Data' excel dat
 3. Removing blank rows and duplicates from the data.
 
 ### Data Querying
-1. Used MySQL (Subqueries, CTEs) to query sales data across restaurants, cities etc to answer EDA questions and gain insights. 
+Used MySQL (Subqueries, CTEs) to query sales data across restaurants, cities etc to answer EDA questions and gain insights. 
 
 ### Exploratory Data Analysis
 EDA is performed on the Sales data to answer some key questions, such as:
@@ -65,7 +65,7 @@ EDA is performed on the Sales data to answer some key questions, such as:
 - **Bangalore** has the highest number of restaurants.
 - **North Indian, Chinese** is the most common cuisine among the restaurants.
 - **Average rating** of restaurants in **Bangalore is 4.1** and in **Ahmedabad is 4**.
-- Below are the **Top 5 restaurants providing highest number of categories**
+- Following are the **Top 5 restaurants providing highest number of categories** : 
   **Imperial Restaurant, Asha Sweet Center, Hotel Empire, Udupi Palace, Angat 22 - The Restaurant & Banquet**
 
 ### Recommendations
