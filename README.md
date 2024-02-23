@@ -12,7 +12,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-This is a data analysis project that aims to provide insights into the sales data of a SWIGGY Online Food delivery company. By analysing various aspects of the sales data , we seek to identify trends, make data-driven recommendations, and gain a deeper understanding to enhance the company's performance in terms of growth, efficiency and customer satisfaction.
+This is a data analysis project that aims to provide insights into the sales data of a SWIGGY Online Food delivery company. By analysing various aspects of the sales data , we seek to identify trends, gain a deeper understanding of the data and make data-driven recommendations to enhance the company's performance in terms of growth, efficiency and customer satisfaction .
 
 ### Data Sources
 The primary dataset used for this analysis are the 'Swiggy Sales Data' excel data , containg detailed information about the sales made by the company.
