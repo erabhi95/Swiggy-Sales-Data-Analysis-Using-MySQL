@@ -18,8 +18,8 @@ This is a data analysis project that aims to provide insights into the sales dat
 The primary dataset used for this analysis are the 'Swiggy Sales Data' excel data , containg detailed information about the sales made by the company.
 
 ### Tools
-1. Microsoft Excel - For Data cleaning and transformation
-2. MySQL -  For querying the data to get insights
+1. **Microsoft Excel** - For Data cleaning and transformation
+2. **MySQL** -  For querying the data to get insights
 
 ### KPIs Considered
 - Cost per cuisine
